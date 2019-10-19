@@ -41,9 +41,9 @@ After performing quite a bit of data manipulation, feature engineering and other
 Three additional questions were asked that may benefit a real estate investor looking in that area. 
 
 1. What are the top three features that attribute to price?
-The number of floors attributed most to price.
+**The number of floors attributed most to price.**
 2. Is there any findings on location of home that is valuable to an investor?
-A bar chart and heatmap were created to show unit sales locations.
+**A bar chart and heatmap were created to show unit sales locations.**
 
 ![city](city_sales.png)
 
@@ -54,8 +54,8 @@ A bar chart and heatmap were created to show unit sales locations.
 
 =======
 >>>>>>> 044bc070273f1e93c211808745eac61ac40020a3
-3. Is there any findings on time of year that is valuable to an investor? 
-April-July seem to be the top 4 months for sales in the region according to our visual.
+3. Are there any findings on time of year that is valuable to an investor? 
+**April-July seem to be the top 4 months for sales in the region according to our visual.**
 
 
 
