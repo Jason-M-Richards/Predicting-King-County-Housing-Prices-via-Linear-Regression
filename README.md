@@ -44,8 +44,11 @@ Three additional questions were asked that may benefit a real estate investor lo
 The number of floors attributed most to price.
 2. Is there any findings on location of home that is valuable to an investor?
 A bar chart and heatmap were created to show unit sales locations.
+
 ![city](city_sales.png)
+
 ![month](month_sales.png)
+
 3. Is there any findings on time of year that is valuable to an investor? 
 April-July seem to be the top 4 months for sales in the region according to our visual.
 
