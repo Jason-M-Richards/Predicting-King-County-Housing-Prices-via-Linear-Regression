@@ -49,8 +49,11 @@ A bar chart and heatmap were created to show unit sales locations.
 
 ![month](month_sales.png)
 
+<<<<<<< HEAD
 ![heatmap](heatmap.png)
 
+=======
+>>>>>>> 044bc070273f1e93c211808745eac61ac40020a3
 3. Is there any findings on time of year that is valuable to an investor? 
 April-July seem to be the top 4 months for sales in the region according to our visual.
 
